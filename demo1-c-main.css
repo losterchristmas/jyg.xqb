@@ -1,0 +1,78 @@
+.logo
+{
+    padding: 50px;
+    width: 500px;
+    height: 200px;
+    right: 0;
+    left: 0;
+    margin: auto;
+
+}
+.nav-name
+{
+    width: 100px;
+    height: 50px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.nav-name p,a
+{
+    display: inline-block;
+}
+.cjp
+{
+    height: 100px;
+    width: 100px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.zyp
+{
+    position: relative;
+    -webkit-animation: mytest 3s linear 1s infinite normal;
+}
+@-webkit-keyframes mytest
+{
+    0%{background:transparent;left:0px;top:0px}
+    25%{background:transparent;left:0px;top:-50px}
+    50%{background:transparent;left:0px;top:0px}
+    75%{background:transparent;left:0px;top:50px}
+    100%{background:transparent;left:0px;top:0px}
+}
+.zyp p
+{
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+}
+.neirong
+{
+    width: 650px;
+    height: 450px;
+    padding: 50px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.cjp
+{
+    height: 420px;
+    width: 300px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.cjp p
+{
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+}
+.ts
+{
+    height: 300px;
+    width: 150px;
+    transform: translate(499px,-352px)
+}
